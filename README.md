@@ -8,7 +8,7 @@ print(f"Logged in as ${github.profile.username}!")
 Console.WriteLine("Logged in as " + github.profile.username);
 ```
 
-```javascript
+```json
   Windows         :  10 Professional 32/64 Bit
   #1 Languages    :  Js, Python, C#
   Discord         :  693504254912102471
