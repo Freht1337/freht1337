@@ -9,9 +9,9 @@ Console.WriteLine("Logged in as " + github.profile.username);
 ```
 
 ```python
-  Windows       :  10 Professional 32/64 Bit
-Main Languages  :  Js, Python, C#
-  Discord       :  693504254912102471
+  Windows         :  10 Professional 32/64 Bit
+  Main Languages  :  Js, Python, C#
+  Discord         :  693504254912102471
 ```
 
 ```json
