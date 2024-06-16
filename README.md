@@ -1,3 +1,3 @@
 ```cs
-  Console.WriteLine("Bist du Madrid? Denn meine Liebe zu dir ist voll real!");
+  Console.WriteLine("Du hs!");
 ```
